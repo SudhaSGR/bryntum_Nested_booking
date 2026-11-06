@@ -1,0 +1,18 @@
+.allocated-grid {
+  display: flex;
+  flex-direction: column;
+  height: 45vh;
+  min-height: 280px;
+  margin: 8px 0;
+}
+
+.allocated-grid__status {
+  padding: 6px 10px;
+  font: 13px/1.4 system-ui, sans-serif;
+  color: #333;
+}
+
+.allocated-grid .b-schedulerpro {
+  flex: 1;
+  min-height: 0;
+}

@@ -1,0 +1,20 @@
+@import url('../node_modules/@bryntum/schedulerpro/schedulerpro.stockholm.css');
+@import url('../node_modules/@bryntum/demo-resources/scss/example-vite.scss');
+
+/* Full-height layout for the scheduler */
+/* html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+}
+
+#root .b-scheduler-pro {
+  flex: 1;
+  min-height: 0;
+} */
